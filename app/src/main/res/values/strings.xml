@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="memes">
+        <item>Reverse cat meme</item>
+        <item>Truck san</item>
+        <item>True</item>
+        <item>download3</item>
+    </string-array>
+    
+    <string-array name="description">
+        <item>Reverse cat meme</item>
+        <item>Truck san</item>
+        <item>True</item>
+        <item>download3</item>
+    </string-array>
+
+</resources>
