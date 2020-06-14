@@ -75,7 +75,10 @@ public class EditMemeView extends AppCompatActivity {
 
     public void saveMeme(View view) {
         MemeFactory memeFactory = new MemeFactory(getApplication());
-        memeFactory.insertMeme(meme1);
+        if(meme1!= null){
+            memeFactory.insertMeme(meme1);
+        }
+
         System.out.println(memeFactory.getAllMemes().size());
     }
 

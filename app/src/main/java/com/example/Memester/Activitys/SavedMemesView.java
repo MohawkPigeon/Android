@@ -16,7 +16,7 @@ import java.util.List;
 public class SavedMemesView extends AppCompatActivity {
 
     public String s1[], s2[];
-    public int images[] = {R.drawable.reverse_cat_meme,R.drawable.truck_san,R.drawable.clown,R.drawable.download3};
+    public int images[] = {R.drawable.reverse_cat_meme,R.drawable.truck_san,R.drawable.clown,R.drawable.download3,R.drawable.memewoman};
    /*
     public List liststring1;
     public List liststring2;
